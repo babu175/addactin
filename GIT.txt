@@ -1,0 +1,18 @@
+TESTNG
+-----------
+https://dl.bintray.com/testng-team/testng-eclipse-release/
+GIT
+-------
+help
+Install Software(https://download.eclipse.org/egit/updates/)
+(Installed or not)go to Window --->Show View -->Other-->GIT
+Project go to team--->ShareProject
+Createfolder
+team--->commit--->Addindex--->testcommit
+team--->show history
+team--->push branch master
+
+clone
+package--->import
+git--->projectfromgit
+cloneuri
